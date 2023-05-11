@@ -84,11 +84,11 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-back 0.2s;
+  animation: slide-back 0.3s;
 }
 
 .light #switch button {
-  animation: slide-in 0.2s forwards;
+  animation: slide-in 0.3s forwards;
 }
 
 #switch button:hover {
@@ -132,7 +132,7 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
 
-  transition: background 0.2s;
+  transition: background 0.3s;
 }
 
 ul li a:hover {
@@ -154,7 +154,7 @@ ul li a:hover {
   justify-content: center;
   padding: 16px;
 
-  transition: background 0.2s;
+  transition: background 0.3s;
 }
 
 #social_links a:hover {
